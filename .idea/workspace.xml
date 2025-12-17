@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd3fb89c-0a64-4a8b-aec8-363953817aa6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lambdas/welcome_function/welcome_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/lambdas/welcome_function/welcome_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
